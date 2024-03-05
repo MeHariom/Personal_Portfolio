@@ -29,7 +29,7 @@ const Work = () => {
               exit="hidden"
               className="mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              You Can Request For My Work Through Email.
+              You Can Request For My Work Through Email.<br>Also u can check my Github for my work.</br>
             </motion.p>
           </div>
 
